@@ -1,0 +1,7 @@
+                 List of relations
+ Schema |     Name     |   Type   |     Owner      
+--------+--------------+----------+----------------
+ public | login        | table    | ealrhpgepnyewp
+ public | login_id_seq | sequence | ealrhpgepnyewp
+(2 rows)
+
